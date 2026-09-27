@@ -119,9 +119,9 @@ I'm using GitHub to document my learning journey and build projects in:
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn URL]
-* 📧 Email: [Add your email]
-* 🌐 Portfolio: [Add your portfolio URL]
+* 💼 LinkedIn: https://www.linkedin.com/in/suhas-sk-2972702a1/
+* 📧 Email: suhas0824sk@gmail.com
+  
 
 ---
 
